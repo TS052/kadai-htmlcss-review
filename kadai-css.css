@@ -1,6 +1,7 @@
 @charset  "UTF-8";
 
 header {
+    width: 1000px;
     background-color:  #ffcccc;
 }
 
@@ -27,6 +28,7 @@ body {
 }
 
 footer {
+    width: 1000px;
     background-color:  #ffccff;
 }
 
